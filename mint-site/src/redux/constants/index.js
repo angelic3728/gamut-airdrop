@@ -1,0 +1,5 @@
+export const TOGGLEDARKMODE = "TOGGLEDARKMODE";
+export const STATISTICS = "STATISTICS";
+export const CHANGE_WALLET = "CHANGE_WALLET";
+export const TOKENDATA = "TOKENDATA";
+export const USERBALANCE = "USERBALANCE";
